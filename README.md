@@ -14,12 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivamxaryan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamxaryan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 Watch Snake eating my contribution
-
-![snake svg](https://github.com/shivamxaryan/shivamxaryan/blob/output/github-contribution-grid-snake.svg)
-
-### 🐍 Watch git contribution making my name
-![gitartwork](https://github.com/shivamxaryan/shivamxaryan/blob/output/gitartwork.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivamxaryan&icon=0&color=0)](https://visitcount.itsvg.in)
