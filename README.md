@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Social<br>🌱 I’m currently learning MERN Stack<br>📫 How to reach me shivamaryan64@gmail.com<br>⚡ Fun fact : I love Anime
+🔭 I’m currently working on Social(A Back-End Project)<br>🌱 I’m currently learning MERN Stack<br>📫 How to reach me shivamaryan64@gmail.com<br>⚡ Fun fact : I love Anime
 
 
 ## 🌐 Socials:
