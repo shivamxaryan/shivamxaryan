@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h1 align="center">Hi 👋, I'm Shivam Aryan</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Shopkart (An Ecommerce Website)<br>🌱 I’m currently learning MERN Stack<br>📫 How to reach me shivamaryan64@gmail.com<br>⚡ Fun fact : I love Anime
